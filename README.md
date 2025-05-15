@@ -2,16 +2,16 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/fa600343-b817-4a9c-8190-3b9ec4184b11" alt="animated_Flood" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e77f6b3e-a372-4272-9120-8ceedc37c7e1" alt="animated_Drainage Channels" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/872a6e8d-402b-4073-a6c0-eca9d1791e8b" alt="animated_Registered Company" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/6b60c4d2-f6b2-4b64-baea-6a14340f6aae" alt="animated_State GDP" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fa600343-b817-4a9c-8190-3b9ec4184b11" alt="animated_Flood" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e77f6b3e-a372-4272-9120-8ceedc37c7e1" alt="animated_Drainage Channels" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/872a6e8d-402b-4073-a6c0-eca9d1791e8b" alt="animated_Registered Company" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6b60c4d2-f6b2-4b64-baea-6a14340f6aae" alt="animated_State GDP" width="220"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/55f14f6c-1e1b-4706-bd29-708a454a5938" alt="animated_Urban Road Construction" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/7dce9cf3-6df7-4bfe-96fd-37cc7bed1a9c" alt="animated_Domestic Electricity Consumption" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/24ceeb8d-8562-4241-aa34-23632400a7a6" alt="animated_total food grains" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/05e9b1c6-c95d-47be-aec5-709c1bb2f403" alt="animated_Non Agricultural Land" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/55f14f6c-1e1b-4706-bd29-708a454a5938" alt="animated_Urban Road Construction" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7dce9cf3-6df7-4bfe-96fd-37cc7bed1a9c" alt="animated_Domestic Electricity Consumption" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/24ceeb8d-8562-4241-aa34-23632400a7a6" alt="animated_total food grains" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/05e9b1c6-c95d-47be-aec5-709c1bb2f403" alt="animated_Non Agricultural Land" width="220"/></td>
   </tr>
 </table>
 
